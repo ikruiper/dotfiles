@@ -1,0 +1,4 @@
+alias ll='ls -al'
+alias rm='rm -i'
+alias psgrep='ps -ef | grep'
+alias fn='find ./ -name'
