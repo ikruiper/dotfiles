@@ -11,3 +11,5 @@ export EDITOR=vim
 #Lets add some colour to the terminal window
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home
