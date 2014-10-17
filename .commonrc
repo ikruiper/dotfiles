@@ -12,4 +12,4 @@ export EDITOR=vim
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home

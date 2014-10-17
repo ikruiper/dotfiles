@@ -4,8 +4,12 @@ helper = /opt/boxen/bin/boxen-git-credential
 
 [core]
 excludesfile = /opt/boxen/config/git/gitignore
+	ignorecase = false
 [push]
 	default = simple
 [user]
 	name = ikruiper
 	email = igor.kruiper@bitnet.io
+
+[hub]
+protocol = https

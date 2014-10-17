@@ -10,3 +10,6 @@ export HISTSIZE=10000
 
 # Common junk
 [[ -s "$HOME/.commonrc" ]] && source "$HOME/.commonrc"
+
+export PATH=$PATH:/Users/ikruiper/dev/hsm/jsp/lib/
+export LIBPATH=/Users/ikruiper/dev/hsm/jsp/lib/:$LIBPATH
