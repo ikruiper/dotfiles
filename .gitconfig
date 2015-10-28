@@ -5,6 +5,7 @@ helper = /opt/boxen/bin/boxen-git-credential
 [core]
 excludesfile = /opt/boxen/config/git/gitignore
 	ignorecase = false
+	autocrlf = input
 [push]
 	default = simple
 [user]
