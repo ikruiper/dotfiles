@@ -10,7 +10,7 @@ excludesfile = /opt/boxen/config/git/gitignore
 	default = simple
 [user]
 	name = ikruiper
-	email = igor.kruiper@bitnet.io
+	email = ikruiper@ymail.com
 
 [hub]
 protocol = https
